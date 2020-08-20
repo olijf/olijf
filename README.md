@@ -1,4 +1,8 @@
 ### Hi there 👋
+Welcome to my Github profile
+Im a software engineer working mostly with csharp / dotnet core. Right now im getting into Blazor, its very nice to work with without know much about web dev stuff.
+On the side I work with docker, gitlab, gitlab CI/CD and of course github. I mostly work with Linux (ubuntu that is) and still have a Windows 10 desktop to play video games.
+You can contact me on telegram: https://t.me/olafvanderkruk or via linkedin https://www.linkedin.com/in/olaf-vanderkruk
 
 <!--
 **olijf/olijf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
